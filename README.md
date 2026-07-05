@@ -4,7 +4,8 @@ In **S.T.A.L.K.E.R. G.A.M.M.A.**, stalker NPCs can feel like their player eurobe
 
 ## What this mod does
 
-- Lowers NPC combat move speeds
+- Lowers stalker NPC combat move speeds
+- Leaves ISG (UNISG) on vanilla stalker move speeds, overriding G.A.M.M.A. NPCs Faster Reactions' boosted ISG speeds
 
 ## Installation
 
