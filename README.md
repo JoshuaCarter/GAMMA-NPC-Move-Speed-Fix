@@ -14,4 +14,5 @@ In **S.T.A.L.K.E.R. G.A.M.M.A.**, stalker NPCs can feel like their player eurobe
 3. Place this mod **below** mods that override `m_stalker.ltx` (e.g. G.A.M.M.A. NPCs Faster Reactions, Stealth Overhaul)
 
 ## See my other mods here:
+
 https://github.com/JoshuaCarter/GAMMA-Mods
